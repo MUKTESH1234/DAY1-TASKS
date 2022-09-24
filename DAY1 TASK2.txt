@@ -1,0 +1,4 @@
+1. Objects in javasripts is a standalone entity with properties and type. Javascript objects can have properties which define their characteristics.
+2. Objects in javascripts are more complex and contains two types i.e primitive data types ans reference data types.
+3. Primitive data types means- Number,string,boolean,null,undefined,symbol. An object is a refernece data type if the variables that are assigned a reference value are given to reference pointer to that value. That reference pointer points to the location in memory where the object is stored.
+4. Objects in javascript are in the form of key value pairs. These keys can be variables or functions and are called properties and methods.

@@ -1,0 +1,13 @@
+                                                   Difference between HTTP1 & HTTP2
+
+
+                        HTTP1:   1. It loads a single request for every TCP connection.
+                                 2. It is less faster and less reliable than HTTP2.
+                                 3. It has poor response time.
+                                 4. HTTP 1 sends message in plain text format only.
+
+                        HTTP2:   1. HTTP2 avoids network delay by using its latest technology i.e        
+                                    Multiplexing the network scheme.
+                                 2. It is more faster and reliable than HTTP1.
+                                 3. It has faster response time.
+                                 4. HTTP2 encodes the text message into binary data and arranges them carefully.
